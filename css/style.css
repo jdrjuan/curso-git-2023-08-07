@@ -42,6 +42,12 @@ nav a:hover {
     width: 70%;
 }
 
+.pregunta {
+    border-bottom: 1px dotted #2222;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
 .lista-preguntas a {
     text-decoration: none;
     color: #444;
